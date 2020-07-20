@@ -1,4 +1,4 @@
-# Proposed Recommendations to Handle Health-related Small Imbalanced Data in Machine Learning]{Proposed Recommendations to Handle Health-related
+# Proposed Recommendations to Handle Health-related Small Imbalanced Data in Machine Learning
 Provides the paper and excel sheet that are published at https://ucai-sig.org/events/ucai20/ 
 
 ## Research Article 
