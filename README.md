@@ -11,6 +11,6 @@ author = {Rauschenberger, Maria and Baeza-Yates, Ricardo},
 booktitle = {Proceedings of the Mensch und Computer 2020 Workshop on 'Workshop on User- Centered Artificial Intelligence (UCAI 2020)'},
 doi = {10.18420/muc2020-ws111-333},
 pages = {1--7},
-title = {{Proposed Recommendations to Handle Health-related Small Imbalanced Data in Machine Learning}},
+title = {{Recommendations to Handle Health-related Small Imbalanced Data in Machine Learning}},
 year = {2020}
 }
